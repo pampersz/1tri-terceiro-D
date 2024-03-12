@@ -60,7 +60,7 @@ body{
     display: block;
 }
 .ativo{
-    background-color: var(--verde);
+    background-color: var(--rosa);
     border-bottom: 4px solid var(--cinza);
 }
 
