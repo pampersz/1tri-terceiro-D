@@ -63,6 +63,11 @@ body{
     background-color: var(--rosa);
     border-bottom: 4px solid var(--cinza);
 }
+.abas-textos{
+    background-color: var(--salmão);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
 
 @media screen and (min-width: 768px){
     .botoes{
